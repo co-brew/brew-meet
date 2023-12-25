@@ -1,0 +1,4 @@
+from ubuntu:22.04
+MAINTAINER Martin_Ho
+RUN apt update; apt install mtr traceroute net-tools iputils-ping curl -y; exit 0
+ENTRYPOINT ["bash"]
