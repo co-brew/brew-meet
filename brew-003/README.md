@@ -13,4 +13,4 @@
 - 何建来
 - 张晓辉 @addozhang
 
-### 其他参与人员：[共12个](https://community.cncf.io/events/details/cncf-cloud-native-guangzhou-presents-brew-meet/)
+### 其他参与人员：[共12个](https://community.cncf.io/events/details/cncf-cloud-native-guangzhou-presents-brew-meet-the-iot-around-us/)
