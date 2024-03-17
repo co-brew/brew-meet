@@ -13,5 +13,6 @@ brew 取冲泡、酿造之意，meet 就是线下会面。地点可以是咖啡�
 - [x] 2023.11.18 WASM
 - [x] 2023.11.23 eBPF
 - [x] 2024.3.9 物联网
+- [ ] 2024.3.30 手把手教你用 Pipy 写个代理
 - [ ] 时间待定 多集群管理
 - [ ] 更多：请通过 [issue 建议](https://github.com/co-brew/brew-meet/issues)
